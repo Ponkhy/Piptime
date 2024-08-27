@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Piptime
 // @namespace    https://github.com/Ponkhy/Piptime
-// @version      1.0.0
+// @version      1.0.1
 // @description  TBA
 // @author       Ponkhy
 // @match        https://www.youtube.com/watch?v=*
