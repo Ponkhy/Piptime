@@ -4,7 +4,8 @@
 // @version      1.0.0
 // @description  TBA
 // @author       Ponkhy
-// @match        https://www.youtube.com/*
+// @match        https://www.youtube.com/watch?v=*
+// @match        https://www.youtube.com/live/*
 // @icon         https://www.youtube.com/favicon.ico
 // @downloadURL  https://github.com/Ponkhy/Piptime/raw/main/piptime.user.js
 // @updateURL    https://github.com/Ponkhy/Piptime/raw/main/piptime.user.js
